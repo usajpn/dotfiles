@@ -180,3 +180,4 @@ let g:go_highlight_build_constraints = 1
 noremap tn :tabnext<CR> 
 noremap tp :tabprevious<CR> 
 
+let g:go_version_warning = 0
